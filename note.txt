@@ -1,0 +1,27 @@
+sorry saya ada correction sikit ya 
+Personal info :
+1. tukar address -> email address, enter your email address
+2. ⁠remove gender 
+Life event (Life Event ni ape eh ?)
+1. ever married -> marital status (Married, Not Married) //ni tambah ke ?
+2. ⁠work type -> private, government, student, not working
+3. ⁠residence type (remove) 
+fitness
+1. hba1c level (remove)
+2. ⁠blood glucose (fasting) -> blood glucose
+
+
+Personal Question,
+kenape pakai python ?
+Kenape awak sambung ?
+
+Awak yg kerja ?
+
+NI bukn fyp ?
+
+I see.
+
+Awak ada pengalaman ke ?
+
+Cuba cerita sikit pasal project ni, objective dia apa ?
+No. sistem ni ada ai ke ?
