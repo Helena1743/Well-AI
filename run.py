@@ -235,4 +235,4 @@ def predict():
     return render_template("index.html")
 
 if __name__ == "__main__":
-    app.run(debug=True)pip freeze > requirements.txt
+    app.run(debug=True)
